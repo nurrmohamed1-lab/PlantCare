@@ -1,0 +1,131 @@
+.parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap :10px
+}
+.content2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  border-radius:20px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  margin-bottom: 10px;
+  overflow: hidden;
+  padding: 15px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;    
+    background: linear-gradient(
+    135deg,
+#f1f8e9 0%,
+  #dcedc8 45%,
+  #a5d6a7 100%
+);
+/* font-family: Arial, Helvetica, sans-serif; */
+}
+.child2 img{
+    height:400px;
+}
+.child1 .k{
+color: #1e461f;
+font-size: 40px;
+font-weight:bolder;
+}
+.Explorebtn{
+    background-color: #1e461f;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 170px;
+    /* margin-right: 20px; */
+    transition: all 0.3s ease ;
+    font-size: 20px;
+
+}
+.Myplantbtn{
+     background-color: white;
+    border: 1px solid #1e461f;
+    color: #1e461f;
+    padding: 10px;
+    border-radius: 20px;
+    width: 170px;
+    transition: all 0.3s ease ;
+    font-size: 20px;
+
+}
+.child1 button:hover{
+transform: translateY(-3px);
+}
+.child1 button:active{
+ transform: scale(0.95);
+}
+.button{
+  display: flex;
+  gap:20px
+}
+.random{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+   
+}
+.random img{
+  height: 300px;
+}
+.details button{
+  font-size: 20px;
+  color:white;
+  background-color: #1e461f;
+  border: hidden;
+  border-radius: 20px;
+  padding:10px;
+   width:120px;
+
+}
+@media (max-width: 768px) {
+  body{
+    font-size: 13px;
+  }
+  .content {
+    /* padding: 30px 15px; */
+    justify-content: space-between;
+  }
+
+  .child1 {
+    width: 50%;
+  }
+
+  .child2 {
+    width: 50%;
+  }
+
+  .child2 img {
+    width: 100%;
+    
+  }
+  .Explorebtn{
+    font-size: 13px;
+    width: 100px;
+    padding: 5px;
+  }
+  .Myplantbtn{
+    font-size: 13px;
+    width: 100px;
+    padding: 5px;
+  }
+  .random img{
+    height: 200px;
+  }
+  .details button{
+    width: 110px;
+    padding: 4px;
+    font-size: 13px;
+  }
+}

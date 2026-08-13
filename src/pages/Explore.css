@@ -1,0 +1,14 @@
+.details-btn{
+ background-color: #1e4f1e !important;
+ color: white !important;
+}
+.card .plant-img{
+    height: 300px;
+    transition: transform 0.5s ease;
+}
+.card{
+    overflow: hidden;
+}
+.card:hover .plant-img{
+transform: scale(1.08);
+}

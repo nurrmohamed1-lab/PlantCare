@@ -1,0 +1,38 @@
+.login-form {
+  width: 400px;
+  /* margin: 100px auto; */
+  gap: 10px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  color: #1e4f1e;
+}
+.login-form h1,.login-form p{
+    text-align: center;
+    
+}
+.login-form input {
+  width: 100%;
+}
+.log-btn{
+    width: 100%;
+    background-color: #1e4f1e !important;
+    
+}
+.parent2{
+    background-image: url("https://i.pinimg.com/736x/af/57/53/af57532f51541c5ab8d3d9fb6e11039d.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:0 !important ;
+}
+@media (max-width:765px){
+    .login-form{
+        width: 90%;
+    }
+}

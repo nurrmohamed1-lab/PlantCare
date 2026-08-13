@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #1e461f !important;
+}
+
+.navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover {
+  color: #b7e4c7 !important;
+}
+.login-btn{
+  background-color: white!important ;
+  color:#1e461f !important;
+  /* font-size: 13px; */
+  border-radius: 20px !important;
+  transition: all 0.3 ease !important;
+}
+.login-btn:hover{
+  border: solid 1px #031103 !important;
+  transform: translateY(-2px)  !important;
+}

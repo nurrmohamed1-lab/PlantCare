@@ -1,0 +1,306 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Monstera Deliciosa",
+      "image": "https://i.pinimg.com/1200x/cb/68/a2/cb68a20cdb904bd8a4efac04e52d77de.jpg",
+      "difficulty": "Easy",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "A tropical houseplant with large decorative split leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pilea Peperomioides",
+      "image": "https://i.pinimg.com/1200x/92/a8/c9/92a8c956fb45ec1143badcdd65b4340d.jpg",
+      "difficulty": "Easy",
+      "water": "Every 1-2 weeks",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "A charming indoor plant with round coin-shaped leaves that is easy to care for and perfect for Beginners.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "let the soil dry slightly before watering.",
+        "Place the plant in bright indirect light.",
+        "Rotate the pot regulary for even growth",
+        "Avoid overwatering to prevent root problems"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Peace Lily",
+      "image": "https://i.pinimg.com/736x/de/45/17/de45171ff185bae6ba1f2c4b6eb44109.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Medium indirect light",
+      "category": "Flowering",
+      "description": "An elegant indoor plant known for its white flowers.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aloe Vera",
+      "image": "https://i.pinimg.com/1200x/55/9e/12/559e12546d75717ef3bcca465e8a1a9a.jpg",
+      "difficulty": "Easy",
+      "water": "Every 2-3 weeks",
+      "light": "Bright light",
+      "category": "Succulent",
+      "description": "A low-maintenance succulent with thick water-storing leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Spider Plant",
+      "image": "https://i.pinimg.com/1200x/aa/c9/18/aac9186f3f16df1c08308612be7e9859.jpg",
+      "difficulty": "Easy",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "A beginner-friendly plant with long arching leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fiddle Leaf Fig",
+      "image": "https://i.pinimg.com/1200x/24/95/55/249555eb074d7c2169d077b1c2bc6cdb.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "A stylish indoor tree with large violin-shaped leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ZZ Plant",
+      "image": "https://i.pinimg.com/1200x/83/32/df/8332df6fb32730d9f14e242c48a8b669.jpg",
+      "difficulty": "Easy",
+      "water": "Every 2-3 weeks",
+      "light": "Low to bright indirect light",
+      "category": "Indoor",
+      "description": "A resilient houseplant that needs very little maintenance.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Calathea",
+      "image": "https://i.pinimg.com/1200x/f8/1c/15/f81c153777981795a58f2e4dc403f1c0.jpg",
+      "difficulty": "Hard",
+      "water": "1-2 times a week",
+      "light": "Medium indirect light",
+      "category": "Tropical",
+      "description": "A tropical plant with beautiful patterned foliage.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pothos",
+      "image": "https://i.pinimg.com/1200x/59/d1/d5/59d1d5b5693b185174076f259365fd39.jpg",
+      "difficulty": "Easy",
+      "water": "Once a week",
+      "light": "Low to bright indirect light",
+      "category": "Indoor",
+      "description": "A fast-growing trailing plant that is easy to care for.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rubber Plant",
+      "image": "https://i.pinimg.com/1200x/31/79/1d/31791de3afdcb0acbfe12fc7f401aed0.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "An attractive houseplant with large glossy leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jade Plant",
+      "image": "https://i.pinimg.com/736x/c8/5f/a7/c85fa71fb24b7176536a6ce92262911a.jpg",
+      "difficulty": "Easy",
+      "water": "Every 2-3 weeks",
+      "light": "Bright light",
+      "category": "Succulent",
+      "description": "A compact succulent with thick oval leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "String of Pearls",
+      "image": "https://i.pinimg.com/1200x/66/b7/7d/66b77dfa5768dbb69be22c44d08e8042.jpg",
+      "difficulty": "Medium",
+      "water": "Every 2-3 weeks",
+      "light": "Bright indirect light",
+      "category": "Succulent",
+      "description": "A trailing succulent with distinctive bead-like leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Boston Fern",
+      "image": "https://i.pinimg.com/1200x/5c/25/71/5c2571461b9b2ce4ed1cc00faeba8993.jpg",
+      "difficulty": "Hard",
+      "water": "2 times a week",
+      "light": "Bright indirect light",
+      "category": "Fern",
+      "description": "A lush fern that enjoys humid environments.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lavender",
+      "image": "https://i.pinimg.com/736x/13/06/f1/1306f1bf683c720cd6ce1e26f9486e68.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Full sun",
+      "category": "Herb",
+      "description": "A fragrant flowering plant that loves sunny locations.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Rosemary",
+      "image": "https://i.pinimg.com/1200x/68/04/12/680412073d20ea41ab20a881d7713e5c.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Full sun",
+      "category": "Herb",
+      "description": "A fragrant herb with needle-like leaves.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Orchid",
+      "image": "https://i.pinimg.com/1200x/a9/7d/7d/a97d7d995cffe05c084d7424d38340f3.jpg",
+      "difficulty": "Hard",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Flowering",
+      "description": "A beautiful flowering plant with long-lasting blooms.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Areca Palm",
+      "image": "https://i.pinimg.com/1200x/8c/cb/1b/8ccb1b48df2cd239d6f0cb07dfa768f9.jpg",
+      "difficulty": "Medium",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Tropical",
+      "description": "A tropical palm that adds a fresh leafy look indoors.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Croton",
+      "image": "https://i.pinimg.com/1200x/bc/2a/cb/bc2acb2b9f636e42301add5a1230254e.jpg",
+      "difficulty": "Hard",
+      "water": "Once a week",
+      "light": "Bright indirect light",
+      "category": "Tropical",
+      "description": "A colorful tropical plant with bright patterned foliage.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Peperomia",
+      "image": "https://i.pinimg.com/1200x/43/e4/6c/43e46cfd1c1abd422ee339888a9a335f.jpg",
+      "difficulty": "Easy",
+      "water": "Every 1-2 weeks",
+      "light": "Bright indirect light",
+      "category": "Indoor",
+      "description": "A compact houseplant available in many attractive varieties.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Chinese Evergreen",
+      "image": "https://i.pinimg.com/1200x/6c/c1/d7/6cc1d7982985ca07100a7dbc13332e3c.jpg",
+      "difficulty": "Easy",
+      "water": "Once a week",
+      "light": "Low to medium indirect light",
+      "category": "Indoor",
+      "description": "A forgiving indoor plant with patterned foliage.",
+      "careTips": [
+        "Use a pot with good drainage.",
+        "Check the soil before watering.",
+        "Give the plant the appropriate amount of light."
+      ]
+    }
+  ]
+}
