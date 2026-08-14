@@ -35,7 +35,7 @@ function EditPlant() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    axios.put(`http://localhost:3000/plants/${id}, plant`)
+    axios.put(`http://localhost:3000/plants/${id}`, plant)
       .then(() => {
         alert("Plant updated successfully!");
       })
