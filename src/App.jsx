@@ -17,7 +17,7 @@ function App() {
   const [isLoggedin,setIsloggedIn]=useState(false)
   return (
     <>
-   <BrowserRouter>
+   <BrowserRouter basename='/PlantCare'>
     <Routes>
       <Route path="/" element={<Layout/>}>
       <Route index element={<Navigate to="/home"replace/>}/>
