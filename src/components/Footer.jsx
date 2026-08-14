@@ -18,18 +18,18 @@ function Footer() {
             <h5 className="fw-bold text-light">Quick Links</h5>
             <ul className="list-unstyled" >
               <li className="mb-2">
-                <a href="/home" className=" text-decoration-none text-light">
+                <Link to="/home" className=" text-decoration-none text-light">
                   Home
-                </a>
+                </Link>
               </li>
               <li className="mb-2">
-                <a href="/explore" className=" text-decoration-none text-light">
+                <Link to="/explore" className=" text-decoration-none text-light">
                   Explore
-                </a>
+                </Link>
               </li>
 
               <li>
-                <a href="/my-plants" className=" text-decoration-none text-light">
+                <Link to="/myplant" className=" text-decoration-none text-light">
                   My Plants
                 </a>
               </li>
